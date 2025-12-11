@@ -1,1 +1,1 @@
-# exercicioSistemaLogin
+# Esse projeto serve apenas como exercício de fixação de algumas propriedades do javaScript. Será atualizado e melhorado no futuro, conforme minhas habilidades evoluirem.
